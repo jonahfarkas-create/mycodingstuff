@@ -2,7 +2,7 @@
 
 def myprint(line):
     print(line)
-
+# a comment
 
 def main():
     myprint("hi")
