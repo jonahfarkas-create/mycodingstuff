@@ -2,6 +2,20 @@
 
 A simple Python project showcasing basic functionality.
 
+# Jonah's Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project Overview
 
 This repository contains a basic Python application with utility functions for printing output.
