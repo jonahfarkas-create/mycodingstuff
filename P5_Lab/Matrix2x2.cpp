@@ -32,6 +32,12 @@ public:
                          m[1][0] * other.m[0][1] + m[1][1] * other.m[1][1]  // second row, second column
         );
     }
+ 
+    /*
+        Markus helped my understanding, two loops that interate over each element of the matrix and doubles it, 
+        p is a pointer to a Matrix2x2 object, 
+        and we use the arrow operator (->) to access the members of the object through the pointer
+    */
 
     void pointerDouble(Matrix2x2 *p)
     {
